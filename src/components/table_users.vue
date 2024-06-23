@@ -52,7 +52,8 @@ onMounted(() => {
 <style scoped>
 
 body{
-  background-color: #34495E;
+  background-color: #f2f2f2;
+  padding: 30px;
 }
 
 //table {
@@ -68,5 +69,9 @@ th, td {
 
 th {
   background-color: #f2f2f2;
+}
+
+tbody{
+  color: grey;
 }
 </style>
