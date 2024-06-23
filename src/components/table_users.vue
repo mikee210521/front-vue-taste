@@ -50,6 +50,11 @@ onMounted(() => {
 </script>
 
 <style scoped>
+
+body{
+  background-color: #34495E;
+}
+
 //table {
 //  width: 100%;
 //  border-collapse: collapse;
