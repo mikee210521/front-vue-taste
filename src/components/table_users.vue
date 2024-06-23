@@ -53,6 +53,7 @@ onMounted(() => {
 table {
   width: 100%;
   border-collapse: collapse;
+  color: red;
 }
 
 th, td {
