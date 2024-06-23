@@ -50,10 +50,10 @@ onMounted(() => {
 </script>
 
 <style scoped>
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
+//table {
+//  width: 100%;
+//  border-collapse: collapse;
+//}
 
 th, td {
   border: 2px solid #808080;
